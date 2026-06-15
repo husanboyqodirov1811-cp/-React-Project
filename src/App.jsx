@@ -6,7 +6,8 @@ function App() {
   return (
     <>
     <div>
-      App
+      <h1>Name: Husanboy</h1>
+      <h1>Cash: 200$</h1>
     </div>
     </>
   )
